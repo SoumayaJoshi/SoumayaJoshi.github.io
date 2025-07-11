@@ -1,6 +1,6 @@
 ## Soumaya Lokesh Ganpati Joshi
 
-# SUMMARY
+## SUMMARY
 
 #### Cybersecurity professional with over 3 years of experience in identifying security vulnerabilities, conducting security reviews, and risk mitigation in cloud and on-premise environments. Expertise in collaborating with cross- functional teams, securing cloud infrastructure (GCP), and remediating vulnerabilities in network protocols and operating systems. Adept at fuzzing, code reviews, and vulnerability discovery. Skilled at engaging with the security community and conducting security research. Strong foundation in IAM, risk assessments, and improving security features.
 
