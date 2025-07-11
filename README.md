@@ -1,6 +1,4 @@
 ## Soumaya Lokesh Ganpati Joshi
-# Security Engineer II
-# +1(332)201-2257 ganpatijoshisoumaya@gmail.com https://www.linkedin.com/in/soumaya-lg-joshi/ https://medium.com/@soumayajoshi2101
 
 # SUMMARY
 
